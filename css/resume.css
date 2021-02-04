@@ -38,7 +38,7 @@
 		font-size: 13px;
 		font-weight: bold;
 		letter-spacing: 1px;
-		color: #FFF;
+		color: #221A5C;
 		font-family: 'Source Sans Pro', sans-serif;
 		text-transform: uppercase;
 		-webkit-transition-delay: 0.35s;
@@ -80,7 +80,7 @@
 
 	.menu-container > .menu-item:hover > .menu-link,
 	.menu-container > .menu-item.current > .menu-link {
-		background-color: #7B6ED6;
+		background-color: #221A5C;
 		color: #FFF !important;
 	}
 
@@ -92,7 +92,7 @@
 	#header.sticky-header.transparent-header.sticky-transparent #header-wrap .primary-menu ul li > a div { opacity: 0; }
 
 	#logo a {
-		color: #FFF;
+		color: #221A5C;
 		font-size: 26px;
 		font-weight: 600;
 		letter-spacing: -0.5px;
